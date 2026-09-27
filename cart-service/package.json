@@ -1,0 +1,10 @@
+{
+  "name": "cart-service",
+  "version": "1.0.0",
+  "description": "Cart Service for the Node.js e-commerce demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}

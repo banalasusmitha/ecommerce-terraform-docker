@@ -1,0 +1,13 @@
+# Terraform working files and state (state can contain sensitive data)
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+
+# SSH private key - NEVER commit this
+terraform/ecommerce-key
+*.pem
+
+# Node
+node_modules/
+npm-debug.log
